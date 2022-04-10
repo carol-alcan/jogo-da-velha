@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    color:#0f0;
+}
+
+.quadrado {
+    text-align: center;
+    width: 50px;
+    background: #eee;
+    display: inline-block;
+    padding: 40px;
+    font-size:60px;
+    margin: 5px;
+    cursor: pointer;
+    color: #eee;
+}
+
+.jogador, .vencedor {
+    font-size: 15px;
+    margin-top: 10px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+button {
+    margin-top: 10px;
+    width: 130px;
+    height:30px;
+    background: #eee;
+    cursor: pointer;
+    font-family: 'Press Start 2P', cursive;
+    color:#0f0
+}
